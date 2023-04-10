@@ -1,0 +1,7 @@
+[
+    {id: 1, title: "Javascript", body: "3 Javascript is awesome"},
+    {id: 2, title: "Java", body: "2 Java is awesome"},
+    {id: 3, title: "Python", body: "1 Python is awesome, but for gays"},
+    {id: 4, title: "C++", body: "5 C++ is awesome for gigachads"},
+    {id: 5, title: "Ruby", body: "4 Ruby is awesome for masochists"}
+]
